@@ -1,3 +1,6 @@
+---
+title: Streams
+---
 ## Advanced Location
 
 1. Callback Pattern
