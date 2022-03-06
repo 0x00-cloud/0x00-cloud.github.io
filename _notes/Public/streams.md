@@ -1,3 +1,8 @@
+---
+title: "Filename" 
+notetype: feed
+date: 7-3-2022
+---
 
 ## Advanced Location
 
