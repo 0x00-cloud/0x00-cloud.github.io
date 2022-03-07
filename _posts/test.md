@@ -1,7 +1,7 @@
 ---
-title: "test"
+title:"test"
 notetype: feed
-date: 07-04-2022
+date: 07-03-2022
 ---
 
 # welcome 
